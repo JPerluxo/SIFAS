@@ -9,7 +9,7 @@ This repository contains the APK of the game "Love Live: School Idol Festival Al
 
 1. **Installation:**
    - Make sure to allow the installation of apps from unknown sources in your device settings.
-   - Open the downloaded [.apk file](/SIFAS.zip) and follow the installation instructions.
+   - Open the downloaded [.apk file](/SIFAS.apk) and follow the installation instructions.
 
 2. **System Requirements:**
    - Android™ 6.0 and later.
